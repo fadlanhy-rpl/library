@@ -1,4 +1,4 @@
-let titleText = "Land Invoice";
+let titleText = "Land Library";
 let speed = 300;
 
 function scrollTitle() {
